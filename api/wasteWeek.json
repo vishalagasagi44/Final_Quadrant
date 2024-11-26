@@ -1,0 +1,34 @@
+{
+  "weekly_waste": [
+    {
+      "week": "week1",
+      "large": 107.97,
+      "medium": 218.21,
+      "small": 24.72
+    },
+    {
+      "week": "week2",
+      "large": 165.38,
+      "medium": 183.84,
+      "small": 40.84
+    },
+    {
+      "week": "week3",
+      "large": 57.67,
+      "medium": 270.25,
+      "small": 43.09
+    },
+    {
+      "week": "week4",
+      "large": 85.39,
+      "medium": 340.89,
+      "small": 43.02
+    },
+    {
+      "week": "week5",
+      "large": null,
+      "medium": 170.94,
+      "small": null
+    }
+  ]
+}

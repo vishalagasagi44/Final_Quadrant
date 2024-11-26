@@ -1,0 +1,10 @@
+{
+    "weeks": [
+      { "week": "Week 1", "co2": 1103.78, "ghg": 807.16, "jobsCompleted": 20 },
+      { "week": "Week 2", "co2": 809.25, "ghg": 789.8, "jobsCompleted": 20 },
+      { "week": "Week 3", "co2": 961.83, "ghg": 687.13, "jobsCompleted": 22 },
+      { "week": "Week 4", "co2": 1225.98, "ghg": 996.27, "jobsCompleted": 28 },
+      { "week": "Week 5", "co2": 460.4, "ghg": 327.5, "jobsCompleted": 10 }
+    ]
+  }
+  

@@ -1,0 +1,25 @@
+{
+    "weekly_job": [
+      {
+        "week": "Week 1",
+        "jobs_completed": 20
+      },
+      {
+        "week": "Week 2",
+        "jobs_completed": 20
+      },
+      {
+        "week": "Week 3",
+        "jobs_completed": 22
+      },
+      {
+        "week": "Week 4",
+        "jobs_completed": 28
+      },
+      {
+        "week": "Week 5",
+        "jobs_completed": 10
+      }
+    ]
+  }
+  

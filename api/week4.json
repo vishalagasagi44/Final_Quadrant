@@ -1,0 +1,33 @@
+{
+    "energy_conserved": [
+      {
+        "service_type": "Battery Disposal",
+        "energy_conserved_kWh": 397.6
+      },
+      {
+        "service_type": "Desktop Recycling",
+        "energy_conserved_kWh": 172.01
+      },
+      {
+        "service_type": "Laptop Recycling",
+        "energy_conserved_kWh": 520.2
+      },
+      {
+        "service_type": "Miscellaneous",
+        "energy_conserved_kWh": 635.82
+      },
+      {
+        "service_type": "Mobile Phone Recycling",
+        "energy_conserved_kWh": 326.36
+      },
+      {
+        "service_type": "Printer Recycling",
+        "energy_conserved_kWh": 1008.59
+      },
+      {
+        "service_type": "TV Recycling",
+        "energy_conserved_kWh": 167.99
+      }
+    ]
+  }
+  

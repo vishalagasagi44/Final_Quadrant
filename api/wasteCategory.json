@@ -1,0 +1,8 @@
+{
+    "categories": [
+      { "category": "Large", "percentage": 15 },
+      { "category": "Medium", "percentage": 64 },
+      { "category": "Small", "percentage": 21 }
+    ]
+  }
+  

@@ -1,0 +1,9 @@
+[
+  { "serviceType": "Battery Disposal", "disposedKg": 31.31 },
+  { "serviceType": "Desktop Recycling", "disposedKg": 37.05 },
+  { "serviceType": "Laptop Recycling", "disposedKg": 35.67 },
+  { "serviceType": "Miscellaneous", "disposedKg": 42.58 },
+  { "serviceType": "Mobile Phone Recycling", "disposedKg": 41.48 },
+  { "serviceType": "Printer Recycling", "disposedKg": 39.25 },
+  { "serviceType": "TV Recycling", "disposedKg": 28.13 }
+]

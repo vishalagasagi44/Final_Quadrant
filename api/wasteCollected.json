@@ -1,0 +1,12 @@
+{
+    "waste": [
+      { "type": "Battery Disposal", "volume": 197.44 },
+      { "type": "Desktop Recycling", "volume": 191.74 },
+      { "type": "Laptop Recycling", "volume": 311.89 },
+      { "type": "Miscellaneous", "volume": 285.8 },
+      { "type": "Mobile Phone Recycling", "volume": 244.61 },
+      { "type": "Printer Recycling", "volume": 272.61 },
+      { "type": "TV Recycling", "volume": 248.12 }
+    ]
+  }
+  
