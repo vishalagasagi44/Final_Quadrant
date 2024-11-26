@@ -43,3 +43,16 @@ Ensure you have the following installed on your system:
 - **npm run build:**
 
 ---
+
+### Deployment
+ - **After Build You have Dist folder so you may deploy on that dist folder in shared server**
+
+ ## Step 1
+
+ - that Dist Folder files copy and paste in your Shared server public folder 
+
+## Step 2
+
+- Also Copy Api folder For JSON Data and place to that Same Share server Public folder
+
+### Thats  All Happy Coading
